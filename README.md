@@ -227,54 +227,16 @@
 - Data Analytics
 
 ---
-
 ### Thank you for visiting! 😊
 ---
-
 *Made with ❤️ by Shalini Verma*
 ---
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-verma)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaliniverma01)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaliniverma01)  
-[![Freelancer](https://img.shields.io/badge/-Freelancer-1DBF73?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/shaliniverma01)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shalini_verma)  
-
----
-
-## ☕ Buy Me A Coffee
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/shaliniverma01)
-
----
----
-
 ## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
-
----
-
-## 📊 Shalini's GitHub Stats
-
+![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)  
+##  📊 Shalini's GitHub Stats
 ![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical)
-
----
-
 ## 🏆 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&theme=radical)
-
----
-
 ## 🔥 GitHub Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical)
-
----
-
-## 🌟 Project In Demand
-
-> **[AI-Powered Chatbot](https://github.com/ShaliniVerma21/ai-chatbot)**  
 ---
