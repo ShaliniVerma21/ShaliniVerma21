@@ -85,11 +85,6 @@
 
 
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=default)
-
-
-
 ## 📫 Let's Connect 🤝
 
 #### 📧 Email: [your-email@example.com]
@@ -98,5 +93,7 @@
 
 
 
-##### Thank you for visiting! 😊
+### Thank you for visiting! 😊
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=default)
