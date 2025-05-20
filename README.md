@@ -1,9 +1,14 @@
 ## 👋 Hi there! I’m Shalini Verma
 
+---
 
 #### 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
 
+---
+
 ## 🛠️ Technologies & Tools
+
+--
 
 ### 🧠 Programming Languages & Concepts
 
@@ -35,6 +40,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=api&logoColor=white)
 
+---
 
 #### 🎓 B.Tech in Computer Science & Engineering
 
@@ -42,6 +48,7 @@
 
 #### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
+---
 
 ## 💼 Expertise That Delivers:
 
@@ -55,7 +62,7 @@
 #### ✅ Game Development
 #### ✅ IT Project Management & Bug Fixing
 
-
+---
 
 ## 🎓 Training & Mentorship Programs:
 
@@ -66,7 +73,7 @@
 #### ✅ Beginner-Friendly Java Development Support
 #### ✅ Custom Java Solutions for Startups & Enterprises
 
-
+---
 
 ## ✨ A Little About Me:
 
@@ -86,7 +93,7 @@
 ####  “Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.”
 #### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
 
-
+---
 
 ## 🤝 Why Work With Me?
 
@@ -96,7 +103,7 @@
 #### 🔹 Client-Focused Approach: Tailored strategies for every project.
 #### 🔹 Practical Training: Real-world projects and actionable insights.
 
-
+---
 
 ##  📩 Let’s Connect for impactful projects, mentorship, or consultation, 
 
@@ -107,16 +114,17 @@
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
+#### 📧 Email: shaliniv532@gmail.com
 
-## 📫 Let's Connect 🤝
-
-#### 📧 Email: [shaliniv532@gmail.com]
 #### 💼 LinkedIn: https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 #### 🌐 Portfolio: 
 
-
+---
 
 ### Thank you for visiting! 😊
+
+---
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=default)
