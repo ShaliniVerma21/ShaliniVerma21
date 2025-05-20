@@ -233,7 +233,21 @@
 
 *Made with ❤️ by Shalini Verma*
 ---
+## 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-verma)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaliniverma01)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaliniverma01)  
+[![Freelancer](https://img.shields.io/badge/-Freelancer-1DBF73?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/shaliniverma01)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shalini_verma)  
+
+---
+
+## ☕ Buy Me A Coffee
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/shaliniverma01)
+
+---
 ---
 
 ## 👁️ Profile Views
