@@ -86,15 +86,6 @@
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
 
-## 🚀 Skills & Interests
-
-#### **Languages & Tools**: Python, C++, Java, HTML, CSS, MySQL, ReactJS
-#### **Tech Interests**: Data Analytics, AI & Automation Tools, Microsoft Office Suite
-#### **Design & Creativity**: Graphic Designing, Blogging, Content Creation
-#### **Business & Management**: Finance Management, Freelancing, Marketing Concepts
-
-
-
 ## 📫 Let's Connect 🤝
 
 #### 📧 Email: [shaliniv532@gmail.com]
