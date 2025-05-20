@@ -238,31 +238,29 @@
 
 ## 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaliniverma01&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
 
 ---
 
 ## 📊 Shalini's GitHub Stats
 
-![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaliniverma01&show_icons=true&theme=radical)
+![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaliniverma01&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaliniverma01&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical)
 
 ---
 
 ## 🌟 Project In Demand
 
-> **[AI-Powered Chatbot](https://github.com/shaliniverma01/ai-chatbot)**  
-> A conversational AI chatbot built with Python, NLP, and deep learning to automate customer service.
-
+**[AI-Powered Chatbot](https://github.com/ShaliniVerma21/ai-chatbot)**  
 ---
