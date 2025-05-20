@@ -87,9 +87,9 @@
 
 ## 📫 Let's Connect 🤝
 
-#### 📧 Email: [your-email@example.com]
-#### 🌐 Portfolio: [Link if available]
-#### 💼 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+#### 📧 Email: [shaliniv532@gmail.com]
+#### 💼 LinkedIn: https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+#### 🌐 Portfolio: 
 
 
 
