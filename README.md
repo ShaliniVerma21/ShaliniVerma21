@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Shalini Verma
 
 
-## 🚀 Full Stack Java/Python/MERN Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber | Web/Desktop/Android/Games | RCP plugins | APIs | AI/ML/DL | Data Analytics
+## 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
 
 ### 🎓 B.Tech in Computer Science & Engineering
 
