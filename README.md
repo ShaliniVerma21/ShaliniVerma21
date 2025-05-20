@@ -3,11 +3,9 @@
 
 ### 🎓 B.Tech in Computer Science & Engineering
 
-### 🖥️ Full-Stack Java/Python Software Development Expert
+### 🖥️ Full-Stack Java/Python/MERN Software Development Expert
 
 ### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
-
-
 
 ## 🚀 Java Software Developer | Technical Trainer | Freelance Consultant
 
@@ -85,19 +83,19 @@ I’m not just a Java Developer or a Technical Trainer—I’m someone who genui
 - **Design & Creativity**: Graphic Designing, Blogging, Content Creation
 - **Business & Management**: Finance Management, Freelancing, Marketing Concepts
 
----
+
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=default)
 
----
+
 
 ### 📫 Let's Connect
 - 📧 Email: [your-email@example.com]
 - 🌐 Portfolio: [Link if available]
 - 💼 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
----
+
 
 Thank you for visiting! 😊
 
