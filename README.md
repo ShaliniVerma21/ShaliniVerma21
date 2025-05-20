@@ -5,6 +5,37 @@
 #### 🚀 Full Stack Java/Python/MERN Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber  
 #### Web/Desktop/Android/Games | RCP plugins | APIs | AI/ML/DL | Data Analytics
 
+
+---
+
+## 🤝 Why Work With Me?
+
+
+#### 🔹 Proven Experience: Delivering high-performance Java solutions.
+#### 🔹 Passionate Mentor: Committed to student and professional growth.
+#### 🔹 Client-Focused Approach: Tailored strategies for every project.
+#### 🔹 Practical Training: Real-world projects and actionable insights.
+
+---
+
+##  📩 Let’s Connect for impactful projects, mentorship, or consultation, 
+
+
+#### 🤝 Collaborate, Learn, and Build Together!
+
+#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
+
+#### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
+
+#### 📧 Email: shaliniv532@gmail.com
+
+#### 💼 LinkedIn: https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+#### 🌐 Portfolio: 
+
+---
+
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -198,35 +229,6 @@
 - RCP Plugins  
 - AI, ML & Deep Learning  
 - Data Analytics
-
----
-
----
-
-## 🤝 Why Work With Me?
-
-
-#### 🔹 Proven Experience: Delivering high-performance Java solutions.
-#### 🔹 Passionate Mentor: Committed to student and professional growth.
-#### 🔹 Client-Focused Approach: Tailored strategies for every project.
-#### 🔹 Practical Training: Real-world projects and actionable insights.
-
----
-
-##  📩 Let’s Connect for impactful projects, mentorship, or consultation, 
-
-
-#### 🤝 Collaborate, Learn, and Build Together!
-
-#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
-
-#### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
-
-#### 📧 Email: shaliniv532@gmail.com
-
-#### 💼 LinkedIn: https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-#### 🌐 Portfolio: 
 
 ---
 
