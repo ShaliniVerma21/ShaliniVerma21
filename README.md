@@ -8,7 +8,6 @@
 
 ## 🛠️ Technologies & Tools
 
---
 
 ### 🧠 Programming Languages & Concepts
 
