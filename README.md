@@ -3,12 +3,6 @@
 
 #### 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
 
-#### 🎓 B.Tech in Computer Science & Engineering
-
-#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
-
-#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
-
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,6 +13,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+#### 🎓 B.Tech in Computer Science & Engineering
+
+#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+
+#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
 
 ## 💼 Expertise That Delivers:
