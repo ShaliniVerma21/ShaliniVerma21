@@ -240,19 +240,11 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&fontSize=30)](https://www.paypal.me/shaliniv532)
 
-<br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical" alt="Shalini's GitHub Stats" width="450"/>
 
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical" alt="GitHub Streak" width="450"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 
