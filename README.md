@@ -1,13 +1,11 @@
 ## 👋 Hi there! I’m Shalini Verma
 
 
+## 🚀 Full Stack Java/Python/MERN Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber | Web/Desktop/Android/Games | RCP plugins | APIs | AI/ML/DL | Data Analytics
+
 ### 🎓 B.Tech in Computer Science & Engineering
 
-### 🖥️ Full-Stack Java/Python/MERN Software Development Expert
-
 ### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
-
-## 🚀 Java Software Developer | Technical Trainer | Freelance Consultant
 
 ### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
