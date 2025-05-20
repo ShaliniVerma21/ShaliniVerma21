@@ -234,13 +234,13 @@
 ## ☕ Support Me
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=FF813F&fontSize=30)](https://www.buymeacoffee.com/shaliniverma01)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.me/shaliniv532)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)  
 ![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&theme=radical)
+</div>
+
 ---
