@@ -234,7 +234,7 @@
 
 ---
 
-## ☕ Support Me
+## ☕ Buy Me A Coffee
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&fontSize=30)](https://www.paypal.me/shaliniv532)
 
