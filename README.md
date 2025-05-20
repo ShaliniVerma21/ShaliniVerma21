@@ -2,12 +2,12 @@
 
 ---
 
-#### 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
+#### 🚀 Full Stack Java/Python/MERN Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber  
+#### Web/Desktop/Android/Games | RCP plugins | APIs | AI/ML/DL | Data Analytics
 
 ---
 
 ## 🛠️ Technologies & Tools
-
 
 ### ✅ Programming Languages & Concepts
 
@@ -120,11 +120,17 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0096D6?style=for-the-badge&logo=netbeans&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ---
@@ -182,6 +188,21 @@
 
 ---
 
+### 📚 Other Skills & Interests
+
+- Corporate Training  
+- Freelancing & Mentorship  
+- Trading & Stock Market  
+- YouTube Content Creation  
+- Game Development  
+- RCP Plugins  
+- AI, ML & Deep Learning  
+- Data Analytics
+
+---
+
+---
+
 ## 🤝 Why Work With Me?
 
 
@@ -210,7 +231,9 @@
 ---
 
 ### Thank you for visiting! 😊
+---
 
+*Made with ❤️ by Shalini Verma*
 ---
 
 ### 📈 GitHub Stats
