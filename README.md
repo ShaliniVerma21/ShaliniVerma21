@@ -233,9 +233,16 @@
 ---
 ## ☕ Buy Me A Coffee
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.me/shaliniv532)  
-or  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/shaliniv532)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shaliniverma01" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.paypal.me/shaliniv532" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)  
 ![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical)
