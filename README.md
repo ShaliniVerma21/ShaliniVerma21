@@ -1,13 +1,13 @@
 ## 👋 Hi there! I’m Shalini Verma
 
 
-### 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
+#### 🚀 Full Stack Java/Python/MERN Developer  |  Corporate Trainer  |  Freelancer  |  Mentor  |  Trader  |  YouTuber  |  Web/Desktop/Android/Games  |  RCP plugins  |  APIs  |  AI/ML/DL  |  Data Analytics
 
-### 🎓 B.Tech in Computer Science & Engineering
+#### 🎓 B.Tech in Computer Science & Engineering
 
-### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
 
-### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
+#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
 
 
@@ -39,7 +39,7 @@
 ## ✨ A Little About Me:
 
 
-I’m not just a Java Developer or a Technical Trainer—I’m someone who genuinely believes in the power of technology and education to transform lives. Whether it’s crafting innovative software solutions that solve real-world problems or guiding students to chase their dreams in tech, I approach every project and every session with passion, dedication, and a heart full of encouragement.
+##### I’m not just a Java Developer or a Technical Trainer—I’m someone who genuinely believes in the power of technology and education to transform lives. Whether it’s crafting innovative software solutions that solve real-world problems or guiding students to chase their dreams in tech, I approach every project and every session with passion, dedication, and a heart full of encouragement.
 
 ##### 💡 I love to inspire students to follow their passion and believe in their potential. There’s nothing more fulfilling than seeing a student build their first project, ace an interview, or confidently step into the tech world with a spark in their eyes.
 
