@@ -231,6 +231,12 @@
 ---
 *Made with ❤️ by Shalini Verma*
 ---
+## ☕ Buy Me A Coffee
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/shaliniverma01)  
+or  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/shaliniv532)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)  
 ![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical)
