@@ -101,6 +101,21 @@
   <a href="https://github.com/ShaliniVerma21/Front-End-Batch-17thDec-2024">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Front-End-Batch-17thDec-2024&theme=radical" />
   </a>
+  <a href="https://github.com/ShaliniVerma21/Cpp-Programming-Batch-12thMarch2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Cpp-Programming-Batch-12thMarch2025&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaliniVerma21/Core-Java-Programming-Batch-22ndMarch-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Programming-Batch-22ndMarch-2025&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaliniVerma21/MySQL-Queries-and-Excersizes-Batch13thJan-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Queries-and-Excersizes-Batch13thJan-2025&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaliniVerma21/C-Programming-Programs-and-Excersizes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=C-Programming-Programs-and-Excersizes&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaliniVerma21/ MERN-Stack-Batch-26th-March-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo= MERN-Stack-Batch-26th-March-2025&theme=radical" />
+  </a>
 </p>
 
 ---
