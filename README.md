@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/%20Data%20Analytics%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
 
 </div>
+
 ---
 
 ## 🌐 Let’s Connect for impactful projects, mentorship, or consultation, 
@@ -32,9 +33,9 @@
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
-##### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
 
-##### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
+#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
 ## 🌐 Connect with Me
 
