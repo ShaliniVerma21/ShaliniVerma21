@@ -11,9 +11,6 @@
 <div align="center">
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/shaliniverma21" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
