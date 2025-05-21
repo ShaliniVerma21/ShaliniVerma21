@@ -35,7 +35,7 @@
 
 #### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
-### 🤝 Collaborate, Learn, and Build Together!
+## 🤝 Collaborate, Learn, and Build Together!
 
 <div>
 
