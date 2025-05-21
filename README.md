@@ -46,9 +46,8 @@
 <div align="center">
 
 <!-- Portfolio -->
-<a href="#">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>&nbsp;&nbsp;
+[![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
+&nbsp;&nbsp;
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
@@ -95,44 +94,6 @@
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
 
-</div>
-
-<div>
-
-[![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
-  <img src="https://img.shields.io/badge/-%20LinkedIn%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&fontSize=30)](https://www.paypal.me/shaliniv532)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
-
-<a href="https://github.com/ShaliniVerma21" target="_blank">
-  <img src="https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/@yourchannel" target="_blank">
-  <img src="https://img.shields.io/badge/-%20YouTube%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="mailto:shaliniv532@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-%20Gmail%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-%20Facebook%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-%20Instagram%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://twitter.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-%20Twitter%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;&nbsp;
 </div>
 
 ---
