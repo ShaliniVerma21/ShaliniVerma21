@@ -20,7 +20,7 @@
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
-<div align="center">
+<div align="left">
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
 <a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
