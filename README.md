@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m **Shalini Verma**  
 
-#### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst
+#### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst 
 
 ### 🧠 Tech Stack
 
