@@ -22,14 +22,6 @@
 <img src="https://img.shields.io/badge/%20Data%20Analytics%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
 
 </div>
-
-
-##### 🎓 B.Tech in Computer Science & Engineering
-
-##### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
-
-##### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
-
 ---
 
 ## 🌐 Let’s Connect for impactful projects, mentorship, or consultation, 
@@ -39,6 +31,11 @@
 #### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
+
+##### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+
+##### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
+
 ## 🌐 Connect with Me
 
 <div>
