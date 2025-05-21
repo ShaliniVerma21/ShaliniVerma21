@@ -7,9 +7,9 @@
 <div>
 
 <!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/JavaStack-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/PythonStack-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MERNStack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Java%20Stack-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20Stack-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <!-- Development Types -->
