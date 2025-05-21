@@ -6,7 +6,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect for impactful projects, mentorship, or consultation, 
+
+#### 🤝 Collaborate, Learn, and Build Together!
+
+#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
+
+#### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
 <div align="center">
 
@@ -59,14 +65,7 @@
 
 ---
 
-##  📩 Let’s Connect for impactful projects, mentorship, or consultation, 
 
-
-#### 🤝 Collaborate, Learn, and Build Together!
-
-#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
-
-#### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
 #### 📧 Email: shaliniv532@gmail.com
 
