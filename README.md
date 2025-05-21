@@ -24,8 +24,7 @@
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
 <a href="[https://www.linkedin.com/in/shaliniverma21](https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-  <img src="![image](https://github.com/user-attachments/assets/bb250e39-6538-45b6-8027-9d7a9b8f10cd)
-" />
+  <img src=![image](https://github.com/user-attachments/assets/bb250e39-6538-45b6-8027-9d7a9b8f10cd)/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/ShaliniVerma21" target="_blank">
