@@ -13,10 +13,10 @@
 <img src="https://img.shields.io/badge/%20REST%20API%20-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <!-- Development Types -->
-<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Desktop%20Apps-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Games%20Dev-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Web%20Development%20-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Desktop%20Applications%20-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Android%20Applications%20-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Games%20Developement%20-000000?style=for-the-badge&logo=unity&logoColor=white" />
 
 <!-- Tools & Concepts -->
 <img src="https://img.shields.io/badge/RCP%20Plugins-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
