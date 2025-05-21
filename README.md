@@ -27,7 +27,7 @@
 
 ## 🌐 Let’s Connect for impactful projects, mentorship, or consultation, 
 
-#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
+#### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Technology.
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 
