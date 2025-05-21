@@ -4,6 +4,30 @@
 
 🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
+## 🧠 Tech Stack
+
+<div align="center">
+
+<!-- Languages & Frameworks -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<!-- Development Types -->
+<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Desktop%20Apps-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Games%20Dev-000000?style=for-the-badge&logo=unity&logoColor=white" />
+
+<!-- Tools & Concepts -->
+<img src="https://img.shields.io/badge/RCP%20Plugins-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML%2FDL-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+</div>
+
+
 ##### 🎓 B.Tech in Computer Science & Engineering
 
 ##### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
