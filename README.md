@@ -1,20 +1,40 @@
-## 👋 Hi there! I’m Shalini Verma
+## 👋 Hi there! I’m **Shalini Verma**  
+[![Portfolio Badge](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Add your portfolio link here -->
 
 ---
 
-#### 🚀 Full Stack Java/Python/MERN Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber  
-#### Web/Desktop/Android/Games | RCP plugins | APIs | AI/ML/DL | Data Analytics
+### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber  
 
+🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
 ---
 
 ## 🤝 Why Work With Me?
 
+💼 **Proven Experience**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Delivering scalable, high-performance full-stack solutions with **Java**, **Spring Boot**, **React**, and more.
 
-#### 🔹 Proven Experience: Delivering high-performance Java solutions.
-#### 🔹 Passionate Mentor: Committed to student and professional growth.
-#### 🔹 Client-Focused Approach: Tailored strategies for every project.
-#### 🔹 Practical Training: Real-world projects and actionable insights.
+🎓 **Passionate Mentor**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Helping students and professionals unlock their full potential with practical coding skills and project-based learning.
+
+🎯 **Client-Focused Approach**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Every project is tailored to meet client goals—**on time and with quality**.
+
+📚 **Real-World Training**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Learn with live projects, assignments, and hands-on workshops to build confidence.
+
+---
+
+## 🌟 Connect With Me  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaliniverma21)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaliniVerma21)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yourchannel)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaliniv532@gmail.com)  
+
+</div>
 
 ---
 
