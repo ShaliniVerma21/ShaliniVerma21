@@ -2,7 +2,7 @@
 
 #### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst
 
-## 🧠 Tech Stack
+### 🧠 Tech Stack
 
 <div>
 
