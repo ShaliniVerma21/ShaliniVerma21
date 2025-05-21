@@ -43,7 +43,7 @@
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
 ## 🌐 Connect with Me
 
-<div align="center">
+<div>
 
 <!-- Portfolio -->
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
@@ -88,8 +88,7 @@
 <a href="https://www.paypal.me/shaliniv532" target="_blank">
   <img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support Me" />
 </a>
-
-<br><br>
+&nbsp;&nbsp;
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
