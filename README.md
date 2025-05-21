@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support Me" />
 </a>
 &nbsp;&nbsp;
-
+</br>
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
 
