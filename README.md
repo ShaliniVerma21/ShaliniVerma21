@@ -282,7 +282,34 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ShaliniVerma21&theme=radical&column=7&margin-w=10&margin-h=10" alt="trophies" />
   </a>
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShaliniVerma21&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ---
+
+## 🥇 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/ShaliniVerma21/ShaliniVerma21/raw/main/assets/github-achievement-snake.svg" width="100%" alt="Snake Game Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShaliniVerma21/github-achievements/blob/main/images/achievements/arctic-code-vault-contributor-default.png" width="100px" />
+  <img src="https://github.com/ShaliniVerma21/github-achievements/blob/main/images/achievements/enterprise-default.png" width="100px" />
+  <img src="https://github.com/ShaliniVerma21/github-achievements/blob/main/images/achievements/pull-shark-default.png" width="100px" />
+  <img src="https://github.com/ShaliniVerma21/github-achievements/blob/main/images/achievements/starstruck-default.png" width="100px" />
+  <img src="https://github.com/ShaliniVerma21/github-achievements/blob/main/images/achievements/yolo-default.png" width="100px" />
+</p>
+
+> 💡 *Note: Some badges shown here are examples. Replace the image URLs with your actual achievements if stored locally or use a GitHub API script to fetch live ones.*
+
+
 
 ## ✨ A Little About Me:
 
