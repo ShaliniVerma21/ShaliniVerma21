@@ -7,10 +7,10 @@
 <div>
 
 <!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/Java%20Stack-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20Stack-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Java%20Stack%20-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Python%20Stack%20-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/%20MERN%20Stack%20-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/%20REST%20API%20-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <!-- Development Types -->
 <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
