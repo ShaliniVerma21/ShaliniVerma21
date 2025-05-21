@@ -54,23 +54,23 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@yourchannel" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20YouTube%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="mailto:shaliniv532@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20Gmail%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20Facebook%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20Instagram%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://twitter.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20Twitter%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 </div>
