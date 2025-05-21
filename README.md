@@ -86,6 +86,13 @@
 
 ---
 
+>💡*Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.*
+
+#### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
+
+---
 ## 🤝 Why Work With Me?
 
 💼 **Proven Experience**  
@@ -308,18 +315,11 @@
 
 #### 💬 Engaging with tech communities
 
->💡*Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.*
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
----
-#### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
 
 ---
 
