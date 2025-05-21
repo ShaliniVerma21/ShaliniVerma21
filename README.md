@@ -92,7 +92,28 @@
 📚 **Real-World Training**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Learn with live projects, assignments, and hands-on workshops to build confidence.
 
+
 ---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <a href="https://github.com/ShaliniVerma21/YourTopRepo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=YourTopRepo&theme=radical" />
+  </a>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+
 
 ## 🛠️ Technologies & Tools
 
