@@ -300,7 +300,7 @@
 
 #### 💬 Engaging with tech communities
 
-#### > 💡 *Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.*
+>💡*Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.*
 
 ## ✍️ Random Dev Quote
 
