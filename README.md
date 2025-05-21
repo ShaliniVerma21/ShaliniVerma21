@@ -1,13 +1,15 @@
 ## 👋 Hi there! I’m **Shalini Verma**  
-🚀 *Full Stack Developer | Corporate Trainer | Freelancer | Mentor | Trader | YouTuber*
+### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber  
 
-[![Portfolio Badge](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
+🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
+
+[![Portfolio Badge](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
 
 <a href="https://www.linkedin.com/in/shaliniverma21">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,12 +28,6 @@
 </a>
 
 </div>
-
----
-
-### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber  
-
-🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
 ---
 
