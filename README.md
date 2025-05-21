@@ -4,6 +4,15 @@
 
 🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
+#### 🎓 B.Tech in Computer Science & Engineering
+
+#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+
+#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
+
+---
+
+
 ---
 
 ## 🌐 Let’s Connect for impactful projects, mentorship, or consultation, 
@@ -17,7 +26,7 @@
 <div align="center">
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
-<a href="https://www.linkedin.com/in/shaliniverma21" target="_blank">
+<a href="[https://www.linkedin.com/in/shaliniverma21](https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -62,15 +71,6 @@
 
 📚 **Real-World Training**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Learn with live projects, assignments, and hands-on workshops to build confidence.
-
----
-
-
-
-#### 📧 Email: shaliniv532@gmail.com
-
-#### 💼 LinkedIn: https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
 
 ---
 
@@ -199,14 +199,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
----
-
-#### 🎓 B.Tech in Computer Science & Engineering
-
-#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
-
-#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
 ---
 
