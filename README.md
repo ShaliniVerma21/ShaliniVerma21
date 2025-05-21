@@ -45,6 +45,7 @@
 <div>
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
   <img src="https://img.shields.io/badge/-%20LinkedIn%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -72,7 +73,7 @@
 <a href="https://twitter.com/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/-%20Twitter%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 </div>
 
 ---
