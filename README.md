@@ -1,17 +1,14 @@
 ## 👋 Hi there! I’m **Shalini Verma**  
 
-### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst
+#### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst
 
 🧠 **Tech Stack:** Java | Python | MERN | RCP Plugins | REST APIs | AI/ML/DL | Web/Desktop/Android/Games | Data Analytics  
 
-#### 🎓 B.Tech in Computer Science & Engineering
+##### 🎓 B.Tech in Computer Science & Engineering
 
-#### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
+##### 💻 Passionate about solving complex problems and turning ideas into scalable, robust, and impactful solutions.
 
-#### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
-
----
-
+##### 🌐 Available for Freelance Projects, Remote Training, and Collaborative Opportunity 
 
 ---
 
