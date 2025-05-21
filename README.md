@@ -98,17 +98,9 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <a href="https://github.com/ShaliniVerma21/YourTopRepo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=YourTopRepo&theme=radical" />
+  <a href="https://github.com/ShaliniVerma21/Front-End-Batch-17thDec-2024">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Front-End-Batch-17thDec-2024&theme=radical" />
   </a>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
@@ -284,6 +276,14 @@
 #### 💬 Engaging with tech communities
 
 ####  “Technology isn’t just about writing code; it’s about empowering people, solving real problems, and building a better future together.”
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
 #### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
 
 ---
