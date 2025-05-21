@@ -88,10 +88,6 @@
 <a href="https://www.paypal.me/shaliniv532" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support Me" />
 </a>
-&nbsp;
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
-
 </div>
 
 ---
@@ -328,6 +324,8 @@
 
 ---
 #### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
 
 ---
 
