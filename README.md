@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/%20Games%20Developement%20-000000?style=for-the-badge&logo=unity&logoColor=white" />
 
 <!-- Tools & Concepts -->
-<img src="https://img.shields.io/badge/RCP%20Plugins-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML%2FDL-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/%20RCP%20Plugins%20-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/%20AI%2FML%2FDL%20-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/%20Data%20Analytics%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
 
 </div>
 
@@ -46,11 +46,11 @@
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
 <a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20LinkedIn%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/ShaliniVerma21" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@yourchannel" target="_blank">
