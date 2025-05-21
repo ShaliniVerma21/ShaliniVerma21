@@ -24,11 +24,13 @@
 
 [![🌐 Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace # with your portfolio link -->
 <a href="[https://www.linkedin.com/in/shaliniverma21](https://www.linkedin.com/in/shalini-verma-3bb569126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="![image](https://github.com/user-attachments/assets/bb250e39-6538-45b6-8027-9d7a9b8f10cd)
+" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/ShaliniVerma21" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="![image](https://github.com/user-attachments/assets/3c6a1346-e29d-4804-9055-7b0b5067ab5d)
+" />
 </a>&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@yourchannel" target="_blank">
