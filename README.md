@@ -41,6 +41,61 @@
 #### 🚀 Your Vision, My Expertise – Let’s Turn Ideas into Reality with Java Technology.
 
 #### 🔗 Open for Professional Networking, Business Partnerships, and Training Engagements!
+## 🌐 Connect with Me
+
+<div align="center">
+
+<!-- Portfolio -->
+<a href="#">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>&nbsp;&nbsp;
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/shalini-verma-3bb569126" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+
+<!-- GitHub -->
+<a href="https://github.com/ShaliniVerma21" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>&nbsp;&nbsp;
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>&nbsp;&nbsp;
+
+<!-- Gmail -->
+<a href="mailto:shaliniv532@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;&nbsp;
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>&nbsp;&nbsp;
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;&nbsp;
+
+<!-- Twitter -->
+<a href="https://twitter.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>&nbsp;&nbsp;
+
+<!-- Buy Me A Coffee / PayPal -->
+<a href="https://www.paypal.me/shaliniv532" target="_blank">
+  <img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support Me" />
+</a>
+
+<br><br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue" alt="Profile Views" />
+
+</div>
 
 <div>
 
