@@ -1,8 +1,6 @@
 ## 👋 Hi there! I’m **Shalini Verma**  
 
 #### 🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst 
-![Achievement: Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-blueviolet?style=for-the-badge&logo=github)
-![Achievement: Arctic Code Vault](https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blue?style=for-the-badge&logo=snowflake)
 
 ### 🧠 Tech Stack
 
@@ -276,6 +274,14 @@
 #### ✅ Beginner-Friendly Java Development Support
 #### ✅ Custom Java Solutions for Startups & Enterprises
 
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShaliniVerma21&theme=radical&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
+</p>
 ---
 
 ## ✨ A Little About Me:
