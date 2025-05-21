@@ -50,6 +50,10 @@
   <img src="https://img.shields.io/badge/-%20LinkedIn%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&fontSize=30)](https://www.paypal.me/shaliniv532)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
+
 <a href="https://github.com/ShaliniVerma21" target="_blank">
   <img src="https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -331,13 +335,6 @@
 *Made with ❤️ by Shalini Verma*
 
 ---
-
-## ☕ Buy Me A Coffee
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&fontSize=30)](https://www.paypal.me/shaliniv532)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShaliniVerma21&style=flat-square&color=blue)
-
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical" alt="Shalini's GitHub Stats" width="450"/>
