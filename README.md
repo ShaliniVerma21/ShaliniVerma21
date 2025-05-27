@@ -104,29 +104,44 @@
 ---
 ## 🤝 Why Work With Me?
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
+</p>
 
-💼 **Proven Experience**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Expert in delivering scalable, high-performance full-stack applications using **Java**, **Spring Boot**, **React**, Hibernate, Python, MERN, MySQL, and more.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Specialized in building Web, Desktop, Android, and Game-based apps.
+---
 
-🎓 **Passionate Mentor**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Trained 5000+ students & professionals through bootcamps, webinars, and mentorships.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Focus on project-based learning, building real-world applications with ease.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Helping students and professionals unlock their full potential with practical coding skills and project-based learning.
+### 💼 **Proven Experience**
+- 🔹 Expert in delivering **scalable**, **high-performance** full-stack applications using  
+  **Java**, **Spring Boot**, **React**, **Hibernate**, **Python**, **MERN**, **MySQL**, and more.
+- 🔹 Specialized in building **Web**, **Desktop**, **Android**, and **Game-based apps**.
 
-🎯 **Client-Focused Approach**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Personalized solutions crafted to match exact business needs.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 On-time delivery with complete transparency and commitment to quality.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Every project is tailored to meet client goals—**on time and with quality**.
+---
 
-📚 **Real-World Training**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Hands-on training with live projects, code reviews, assignments, and hands-on workshops to build confidence.
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Empowering learners with Practical Approach to build & deploy real software.
+### 🎓 **Passionate Mentor**
+- 🔹 Trained **5000+ students & professionals** through bootcamps, webinars, and mentorships.
+- 🔹 Focus on **project-based learning**, building **real-world applications** with ease.
+- 🔹 Helping students and professionals unlock their full potential with **practical coding skills**.
 
-🚀 **Tools & Platforms**
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,github,vscode,figma,androidstudio" alt="Skills" />
+---
+
+### 🎯 **Client-Focused Approach**
+- 🔹 Personalized solutions crafted to match **exact business needs**.
+- 🔹 On-time delivery with **complete transparency** and **commitment to quality**.
+- 🔹 Every project is tailored to meet **client goals—on time and with quality**.
+
+---
+
+### 📚 **Real-World Training**
+- 🔹 Hands-on training with **live projects**, **code reviews**, **assignments**, and workshops.
+- 🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
+
+---
+
+### 🚀 **Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,github,vscode,figma,androidstudio" alt="Skills" />
+</p>
 
 ---
 
