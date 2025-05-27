@@ -101,16 +101,16 @@
   <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
 
-  <!-- ⭐ GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/ShaliniVerma21?style=flat-square&label=⭐%20GitHub%20Stars" alt="GitHub Stars" />
-  &nbsp;&nbsp;
-
   <!-- 👤 GitHub Followers -->
   <img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
 
-</div>
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&count_private=true)
+
+
+
+</div>
 
 ---
 ## 🤝 Why Work With Me?
