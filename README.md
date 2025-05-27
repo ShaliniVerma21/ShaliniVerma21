@@ -109,36 +109,32 @@
 </p>
 
 ### 💼 **Proven Experience**
-- 🔹 Expert in delivering **scalable**, **high-performance** full-stack applications using  
+ 🔹 Expert in delivering **scalable**, **high-performance** full-stack applications using  
   **Java**, **Spring Boot**, **React**, **Hibernate**, **Python**, **MERN**, **MySQL**, and more.
-- 🔹 Specialized in building **Web**, **Desktop**, **Android**, and **Game-based apps**.
+ 🔹 Specialized in building **Web**, **Desktop**, **Android**, and **Game-based apps**.
 
   
 
 ### 🎓 **Passionate Mentor**
-- 🔹 Trained **5000+ students & professionals** through bootcamps, webinars, and mentorships.
-- 🔹 Focus on **project-based learning**, building **real-world applications** with ease.
-- 🔹 Helping students and professionals unlock their full potential with **practical coding skills**.
+ 🔹 Trained **5000+ students & professionals** through bootcamps, webinars, and mentorships.
+ 🔹 Focus on **project-based learning**, building **real-world applications** with ease.
+ 🔹 Helping students and professionals unlock their full potential with **practical coding skills**.
 
 
 
 ### 🎯 **Client-Focused Approach**
-- 🔹 Personalized solutions crafted to match **exact business needs**.
-- 🔹 On-time delivery with **complete transparency** and **commitment to quality**.
-- 🔹 Every project is tailored to meet **client goals—on time and with quality**.
+ 🔹 Personalized solutions crafted to match **exact business needs**.
+ 🔹 On-time delivery with **complete transparency** and **commitment to quality**.
+ 🔹 Every project is tailored to meet **client goals—on time and with quality**.
 
 
 
 ### 📚 **Real-World Training**
-- 🔹 Hands-on training with **live projects**, **code reviews**, **assignments**, and workshops.
-- 🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
-
-
-
-### 🚀 **Tools & Platforms**
+ 🔹 Hands-on training with **live projects**, **code reviews**, **assignments**, and workshops.
+ 🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,github,vscode,figma,androidstudio" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,springboot,react,nodejs,expressjs,python,django,mongodb,mysql,github,vscode,figma,androidstudio,eclipse,dataanalytics" alt="Skills" />
 </p>
 
 ---
