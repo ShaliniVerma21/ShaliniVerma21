@@ -103,11 +103,9 @@
 
 ---
 ## 🤝 Why Work With Me?
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
 </p>
-
 
   ### 💼 **Proven Experience**
 
