@@ -1,4 +1,13 @@
+<h1 align="center">👋 Hi there! I’m <span style="color:#ff69b4">Shalini Verma</span> 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
+</p>
+
 ## 👋 Hi there! I’m **Shalini Verma**  
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
+</p>
 
 ### 🧠 Tech Stack
 
@@ -103,9 +112,6 @@
 
 ---
 ## 🤝 Why Work With Me?
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
-</p>
 
   ### 💼 **Proven Experience**
 
