@@ -104,10 +104,9 @@
   <!-- 👤 GitHub Followers -->
   <img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
 
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
-
-
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&hide_border=true&count_private=true&theme=blueberry" alt="Shalini Verma's GitHub Stats" />
+</p>
 
 
 </div>
