@@ -108,34 +108,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" />
 </p>
 
----
-
 ### 💼 **Proven Experience**
 - 🔹 Expert in delivering **scalable**, **high-performance** full-stack applications using  
   **Java**, **Spring Boot**, **React**, **Hibernate**, **Python**, **MERN**, **MySQL**, and more.
 - 🔹 Specialized in building **Web**, **Desktop**, **Android**, and **Game-based apps**.
 
----
+  
 
 ### 🎓 **Passionate Mentor**
 - 🔹 Trained **5000+ students & professionals** through bootcamps, webinars, and mentorships.
 - 🔹 Focus on **project-based learning**, building **real-world applications** with ease.
 - 🔹 Helping students and professionals unlock their full potential with **practical coding skills**.
 
----
+
 
 ### 🎯 **Client-Focused Approach**
 - 🔹 Personalized solutions crafted to match **exact business needs**.
 - 🔹 On-time delivery with **complete transparency** and **commitment to quality**.
 - 🔹 Every project is tailored to meet **client goals—on time and with quality**.
 
----
+
 
 ### 📚 **Real-World Training**
 - 🔹 Hands-on training with **live projects**, **code reviews**, **assignments**, and workshops.
 - 🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
 
----
+
 
 ### 🚀 **Tools & Platforms**
 
