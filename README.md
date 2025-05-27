@@ -95,16 +95,21 @@
 
 #### 🚀 Let’s learn, and create something impactful—one project, one session, and one step at a time.
 
-<div>
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20%20%20Profile%20Views%20%20%20%20&color=blue&style=flat-square" alt="Profile Views" />
-&nbsp;
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/ShaliniVerma21?label=⭐%20%20%20GitHub%20Stars%20%20%20&style=flat-square" alt="GitHub Stars" />
-&nbsp;
-<!-- GitHub Followers -->
-<img src="https://img.shields.io/github/followers/ShaliniVerma21?label=👤%20%20%20Followers%20%20%20&style=flat-square" alt="GitHub Followers" />
+<div align="center">
+  
+  <!-- 👀 Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+
+  <!-- ⭐ GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/ShaliniVerma21?style=flat-square&label=⭐%20GitHub%20Stars" alt="GitHub Stars" />
+  &nbsp;&nbsp;
+
+  <!-- 👤 GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
+
 </div>
+
 
 ---
 ## 🤝 Why Work With Me?
