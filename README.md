@@ -107,41 +107,26 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!" alt="Typing SVG" /> </p>
 
 💼 **Proven Experience**  
-&nbsp;&nbsp;&nbsp;&nbsp;
-    🔹 Expert in delivering scalable, high-performance full-stack applications using
-        Java, Spring Boot, Hibernate, Python, MERN, MySQL, and more.
-    🔹 Specialized in building Web, Desktop, Android, and Game-based apps.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Expert in delivering scalable, high-performance full-stack applications using **Java**, **Spring Boot**, **React**, Hibernate, Python, MERN, MySQL, and more.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Specialized in building Web, Desktop, Android, and Game-based apps.
 
 🎓 **Passionate Mentor**  
-&nbsp;&nbsp;&nbsp;&nbsp;
-    🔹 Trained 5000+ students & professionals through bootcamps, webinars, and mentorships.
-    🔹 Focus on project-based learning, building real-world applications with ease.
-
-🎯 **Client-Focused Approach**  
-&nbsp;&nbsp;&nbsp;&nbsp;
-    🔹 Personalized solutions crafted to match exact business needs.
-    🔹 On-time delivery with complete transparency and commitment to quality.
-
-📚 **Real-World Training**  
-&nbsp;&nbsp;&nbsp;&nbsp;
-    🔹 Hands-on training with live projects, code reviews, and workshops.
-    🔹 Empowering learners with the confidence to build & deploy real software.
-
-🚀 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,github,vscode,figma,androidstudio" alt="Skills" />
-
-💼 **Proven Experience**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Delivering scalable, high-performance full-stack solutions with **Java**, **Spring Boot**, **React**, and more.
-
-🎓 **Passionate Mentor**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Trained 5000+ students & professionals through bootcamps, webinars, and mentorships.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Focus on project-based learning, building real-world applications with ease.
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Helping students and professionals unlock their full potential with practical coding skills and project-based learning.
 
 🎯 **Client-Focused Approach**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Personalized solutions crafted to match exact business needs.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 On-time delivery with complete transparency and commitment to quality.
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Every project is tailored to meet client goals—**on time and with quality**.
 
 📚 **Real-World Training**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Learn with live projects, assignments, and hands-on workshops to build confidence.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Hands-on training with live projects, code reviews, assignments, and hands-on workshops to build confidence.
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Empowering learners with Practical Approach to build & deploy real software.
 
+🚀 **Tools & Platforms**
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,github,vscode,figma,androidstudio" alt="Skills" />
 
 ---
 
