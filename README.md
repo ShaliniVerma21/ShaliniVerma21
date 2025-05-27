@@ -134,7 +134,7 @@
  🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,springboot,react,nodejs,expressjs,python,django,mongodb,mysql,github,vscode,figma,androidstudio,eclipse,dataanalytics" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,tailwind,java,j2ee,spring,restapi,react,nodejs,expressjs,nextjs,python,django,mongodb,mysql,dataanalytics,datascience,msoffice,github,vscode,figma,androidstudio,eclipse,intellij,postman,chatgpt,blackboxai,artificialintelligence,machinelearning,deeplearning" alt="Skills" />
 </p>
 
 ---
