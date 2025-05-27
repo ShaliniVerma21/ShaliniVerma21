@@ -100,10 +100,10 @@
 <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20%20%20Profile%20Views%20%20%20%20&color=blue&style=flat-square" alt="Profile Views" />
 &nbsp;
 <!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/ShaliniVerma21?label=⭐ GitHub Stars&style=flat-square" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/stars/ShaliniVerma21?label=⭐%20%20%20GitHub%20Stars%20%20%20&style=flat-square" alt="GitHub Stars" />
 &nbsp;
 <!-- GitHub Followers -->
-<img src="https://img.shields.io/github/followers/ShaliniVerma21?label=👤 Followers&style=flat-square" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/ShaliniVerma21?label=👤%20%20%20Followers%20%20%20&style=flat-square" alt="GitHub Followers" />
 </div>
 
 ---
