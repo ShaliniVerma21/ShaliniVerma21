@@ -144,9 +144,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,eclipse,intellij,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,eclipse,androidstudio" />
 </p>
-💡 Also experienced in:  
+💡 Also using:  
 J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Blackbox AI
 
 
