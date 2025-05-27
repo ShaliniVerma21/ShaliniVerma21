@@ -133,9 +133,12 @@
  🔹 Hands-on training with **live projects**, **code reviews**, **assignments**, and workshops.
  🔹 Empowering learners with **practical approaches** to build and deploy real-world software.
 
+### 🚀 Tools, Technologies & Platforms I Use
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,tailwind,java,j2ee,spring,restapi,react,nodejs,expressjs,nextjs,python,django,mongodb,mysql,dataanalytics,datascience,msoffice,github,vscode,figma,androidstudio,eclipse,intellij,postman,chatgpt,blackboxai,artificialintelligence,machinelearning,deeplearning" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,tailwind,java,j2ee,spring,restapi,react,nodejs,expressjs,nextjs,python,django,mongodb,mysql,dataanalytics,datascience,msoffice,github,vscode,figma,androidstudio,eclipse,intellij,postman,chatgpt,blackboxai,artificialintelligence,machinelearning,deeplearning" alt="Tech Stack" />
 </p>
+
 
 ---
 
