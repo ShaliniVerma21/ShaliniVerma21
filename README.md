@@ -101,12 +101,6 @@
   <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20%20%20Profile%20Views%20%20%20&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
 
-   <!-- ⭐ GitHub Repo Stars -->
-  <img src="https://img.shields.io/github/stars/ShaliniVerma21/Portfolio?style=flat-square&label=⭐%20Repo%20Stars" alt="GitHub Repo Stars" />
-
-  <!-- 👤 GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/ShaliniVerma21?style=flat-square&label=👤%20Followers" alt="GitHub Followers" />
-
 </div>
 
 ---
