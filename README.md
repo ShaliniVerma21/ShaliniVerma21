@@ -98,7 +98,7 @@
 <div align="center">
   
   <!-- 👀 Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20%20%20Profile%20Views%20%20%20&color=0e75b6&style=flat-square" alt="Profile Views" height="100px" width="500px"/>
+  <img src="https://komarev.com/ghpvc/?username=ShaliniVerma21&label=👀%20%20%20Profile%20Views%20%20%20&color=0e75b6&style=flat-square" alt="Profile Views" height="60px" width="500px"/>
   &nbsp;&nbsp;
 </div>
 
