@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/%20RCP%20Plugins%20-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
 <img src="https://img.shields.io/badge/%20AI%2FML%2FDL%20-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/%20Data%20Analytics%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
-
+<img src="https://img.shields.io/badge/%20Data%20Science%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Science"/>
 </div>
 
 ---
