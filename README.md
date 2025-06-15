@@ -7,7 +7,7 @@
 
 ### 🧠 Tech Stack
 
-<div align="center">
+<div>
 
 <!-- 🔷 Languages & Frameworks -->
 <img src="https://img.shields.io/badge/Java%20Stack-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
