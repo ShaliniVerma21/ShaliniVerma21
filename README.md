@@ -169,8 +169,8 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
 
 <p align="center">
 
-  <a href="https://github.com/ShaliniVerma21/Front-End-Batch-17thDec-2024">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Front-End-Batch-17thDec-2024&theme=radical" />
+  <a href="https://github.com/ShaliniVerma21/FrontEnd-Batch-10th-Feb-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=FrontEnd-Batch-10th-Feb-2025&theme=radical" />
   </a>
   <a href="https://github.com/ShaliniVerma21/Cpp-Programming-Batch-12thMarch2025">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Cpp-Programming-Batch-12thMarch2025&theme=radical" />
@@ -186,6 +186,9 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
   </a>
   <a href="https://github.com/ShaliniVerma21/MERN-Stack-Batch-26th-March-2025">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MERN-Stack-Batch-26th-March-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
   </a>
 </p>
 
