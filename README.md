@@ -403,9 +403,7 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ShaliniVerma21&show_icons=true&theme=radical" alt="Shalini's GitHub Stats" width="450"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaliniVerma21&theme=radical" alt="GitHub Streak" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&langs_count=15&theme=radical" alt="Top Languages" width="450"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniVerma21&layout=compact&langs_count=30&theme=radical" alt="Top Languages" width="550"/>
 
 
 </div>
