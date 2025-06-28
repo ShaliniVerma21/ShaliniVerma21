@@ -194,7 +194,42 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
 
 ---
 
+## 🔝 Ongoing Batches
 
+--- 
+
+<p align="center">
+    <a href="https://github.com/ShaliniVerma21/FrontEnd-Batch-10th-Feb-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=FrontEnd-Batch-10th-Feb-2025&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaliniVerma21/Core-Java-Programming-Batch-22ndMarch-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Programming-Batch-22ndMarch-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/MERN-Stack-Batch-26th-March-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MERN-Stack-Batch-26th-March-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-19th-May-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-19th-May-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-16th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-16th-June-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-31st-May-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-31st-May-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
+  </a>
+   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
+  </a>
+</p>
 
 ## 🛠️ Technologies & Tools
 
