@@ -418,9 +418,9 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-31st-May-2025-B1-MTWTH">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-31st-May-2025-B1-MTWTH&theme=radical" />
   </a>
- 
-   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-19th-May-2025-B2-MTWTH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-19th-May-2025-B2-MTWTH&theme=radical" />
+
+   <a href="https://github.com/ShaliniVerma21/ MySQL-Batch-28th-July-2025-B3-MW">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo= MySQL-Batch-28th-July-2025-B3-MW&theme=radical" />
   </a>
   
    <a href="https://github.com/ShaliniVerma21/MySQL-Batch-16th-June-2025-B3-MW">
