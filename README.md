@@ -446,8 +446,8 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MERN-Stack-Batch-26th-March-2025&theme=radical" />
   </a>
   
-   <a href="https://github.com/ShaliniVerma21/MySQL-Batch-6th-April-2025-B7-SS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Batch-6th-April-2025-B7-SS&theme=radical" />
+   <a href="https://github.com/ShaliniVerma21/Python-Batch-30th-August-2025-B9-SS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Batch-30th-August-2025-B9-SS&theme=radical" />
   </a>
   
    <a href="https://github.com/ShaliniVerma21/Core-Java-Programming-Batch-22ndMarch-2025">
