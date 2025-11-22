@@ -165,34 +165,6 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
 </div>
 ---
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-
-  <a href="https://github.com/ShaliniVerma21/FrontEnd-Batch-10th-Feb-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=FrontEnd-Batch-10th-Feb-2025&theme=radical" />
-  </a>
-  <a href="https://github.com/ShaliniVerma21/Cpp-Programming-Batch-12thMarch2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Cpp-Programming-Batch-12thMarch2025&theme=radical" />
-  </a>
-  <a href="https://github.com/ShaliniVerma21/Core-Java-Programming-Batch-22ndMarch-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Programming-Batch-22ndMarch-2025&theme=radical" />
-  </a>
-  <a href="https://github.com/ShaliniVerma21/MySQL-Queries-and-Excersizes-Batch13thJan-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Queries-and-Excersizes-Batch13thJan-2025&theme=radical" />
-  </a>
-  <a href="https://github.com/ShaliniVerma21/C-Programming-Programs-and-Excersizes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=C-Programming-Programs-and-Excersizes&theme=radical" />
-  </a>
-  <a href="https://github.com/ShaliniVerma21/MERN-Stack-Batch-26th-March-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MERN-Stack-Batch-26th-March-2025&theme=radical" />
-  </a>
-   <a href="https://github.com/ShaliniVerma21/Python-Programming-Batch-10th-June-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Python-Programming-Batch-10th-June-2025&theme=radical" />
-  </a>
-</p>
----
-
 ## 🔝 Top Contributed Repos
 
 <p align="center">
@@ -273,6 +245,10 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
   </a>
 
 </p>
+
+
+
+---
 
 
 ## 🛠️ Technologies & Tools
