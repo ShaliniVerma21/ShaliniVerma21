@@ -193,6 +193,88 @@ J2EE, REST APIs, Data Analytics, Data Science, MS Office, AI/ML/DL, ChatGPT, Bla
 </p>
 ---
 
+## 🔝 Top Contributed Repos
+
+<p align="center">
+
+  <!-- 1 -->
+  <a href="https://github.com/ShaliniVerma21/B7-Data-Analytics-and-Science-Python-Programming-Batch-11th-November-2025-TThSat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=B7-Data-Analytics-and-Science-Python-Programming-Batch-11th-November-2025-TThSat&theme=radical" />
+  </a>
+
+  <!-- 2 -->
+  <a href="https://github.com/ShaliniVerma21/FrontEnd-Batch-7th-July-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=FrontEnd-Batch-7th-July-2025&theme=radical" />
+  </a>
+
+  <!-- 3 -->
+  <a href="https://github.com/ShaliniVerma21/B2-Data-Analytics-and-Science-MySQL-Batch-7th-October-2025-TTH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=B2-Data-Analytics-and-Science-MySQL-Batch-7th-October-2025-TTH&theme=radical" />
+  </a>
+
+  <!-- 4 -->
+  <a href="https://github.com/ShaliniVerma21/B10-Advanced-Java-Programs-and-Excersizes-Batch-SS-5th-October-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=B10-Advanced-Java-Programs-and-Excersizes-Batch-SS-5th-October-2025&theme=radical" />
+  </a>
+
+  <!-- 5 -->
+  <a href="https://github.com/ShaliniVerma21/master-Java-DSA-SystemDesign-Batch-24Oct2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=master-Java-DSA-SystemDesign-Batch-24Oct2025&theme=radical" />
+  </a>
+
+  <!-- 6 -->
+  <a href="https://github.com/ShaliniVerma21/Core-Java-Programming-Batch-22ndMarch-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Programming-Batch-22ndMarch-2025&theme=radical" />
+  </a>
+
+  <!-- 7 -->
+  <a href="https://github.com/ShaliniVerma21/Interview-Preparation-1-to-1-Sessions-Complete-Guide">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Interview-Preparation-1-to-1-Sessions-Complete-Guide&theme=radical" />
+  </a>
+
+  <!-- 8 -->
+  <a href="https://github.com/ShaliniVerma21/MySQL-Queries-and-Excersizes-Batch13thJan-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MySQL-Queries-and-Excersizes-Batch13thJan-2025&theme=radical" />
+  </a>
+
+  <!-- 9 -->
+  <a href="https://github.com/ShaliniVerma21/Cpp-Programming-Batch-12thMarch2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Cpp-Programming-Batch-12thMarch2025&theme=radical" />
+  </a>
+
+  <!-- 10 -->
+  <a href="https://github.com/ShaliniVerma21/MERN-Stack-Batch-26th-March-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=MERN-Stack-Batch-26th-March-2025&theme=radical" />
+  </a>
+
+  <!-- 11 -->
+  <a href="https://github.com/ShaliniVerma21/C-Programming-Programs-and-Excersizes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=C-Programming-Programs-and-Excersizes&theme=radical" />
+  </a>
+
+  <!-- 12 -->
+  <a href="https://github.com/ShaliniVerma21/Core-Java-Programs-and-Excersizes-Batch-18thNov-2024">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Programs-and-Excersizes-Batch-18thNov-2024&theme=radical" />
+  </a>
+
+  <!-- 13 -->
+  <a href="https://github.com/ShaliniVerma21/J2EE-Final-Project-E-Commerce-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=J2EE-Final-Project-E-Commerce-Website&theme=radical" />
+  </a>
+
+  <!-- 14 -->
+  <a href="https://github.com/ShaliniVerma21/Core-Java-Final-Project-Ecommerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Core-Java-Final-Project-Ecommerce&theme=radical" />
+  </a>
+
+  <!-- 15 -->
+  <a href="https://github.com/ShaliniVerma21/Banking-System-MySQL-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShaliniVerma21&repo=Banking-System-MySQL-Project&theme=radical" />
+  </a>
+
+</p>
+
+
 ## 🛠️ Technologies & Tools
 
 ### ✅ Programming Languages & Concepts
