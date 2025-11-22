@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!;📱+Building+Web%2C+Mobile%2C+and+Game+Apps+That+Inspire" alt="Typing SVG" />
 </p>
+
 ### 🧠 Tech Stack
 <div>
 
@@ -37,29 +38,6 @@
 <img src="https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
 
 </div>
-
-### 🧠 Tech Stack
-<div>
-<!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/%20Java%20Stack%20-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/%20Python%20Stack%20-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/%20MERN%20Stack%20-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/%20REST%20API%20-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<!-- Development Types -->
-<img src="https://img.shields.io/badge/%20Web%20Development%20-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/%20Desktop%20Applications%20-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/%20Android%20Applications%20-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/%20Games%20Developement%20-000000?style=for-the-badge&logo=unity&logoColor=white" />
-
-<!-- Tools & Concepts -->
-<img src="https://img.shields.io/badge/%20RCP%20Plugins%20-FF6F61?style=for-the-badge&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/%20AI%2FML%2FDL%20-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/%20Data%20Analytics%20-0052CC?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-1F70C1?style=for-the-badge&logo=powerbi&logoColor=white" />
-
-</div>
-
 
 ---
 
