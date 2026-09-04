@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hey! I’m <span style="color:#ff69b4">Miss Alpha</span></h1>
+<h1 align="center">👋 Hey! I’m <span style="color:#ff69b4">Shalini Verma</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=✨+Delivering+Quality+Code+That+Scales!;🚀+Training+Future+Tech+Leaders!;💼+Your+Next+Tech+Partner!;📱+Building+Web%2C+Mobile%2C+and+Game+Apps+That+Inspire" alt="Typing SVG" />
